@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/profile.jpg
+picture: https://github.com/apolmig/energianaccion.org/blob/master/assets/images/miguel-energianaccion-510x526.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 # resume-url: https://google.com/?q=my+resume
 
-url: https://apolmig.github.io
+url: https://apolmig.github.io/indigo/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
